@@ -1,0 +1,265 @@
+body
+{
+	background-image: url(../images/wallpaper.jpg);
+	width: 1280px;
+	height: 900px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-size: 30px;
+}
+
+.actions
+{
+	width: 70%;
+	height: 500px;
+	left: 15%;
+	position: relative;
+	display: none;
+	text-align: center;
+}
+
+.actions li
+{
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 45px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 280;
+	line-height: 75px;
+	list-style-type:none;
+
+}
+
+.actions ul
+{
+	width:45%;
+	display:inline-block;
+	padding-left:0px;
+}
+
+div.main-container
+{
+	width: 70%;
+	left: 15%;
+	position: relative;
+	color: white;
+}
+
+div.days
+{
+	width: 70%;
+	left: 15%;
+	position: relative;
+	font-size: 44px;
+}
+
+ul.day-selection a:link
+{
+	color:red;
+}
+
+ul.day-selection a:hover
+{
+	color: white;
+}
+
+ul
+{
+	margin-left: 4%;
+}
+
+ul a
+{
+	text-decoration:none;
+}
+
+ul a:link,ul a:visited
+{
+	color: red;
+	text-decoration:none;
+}
+
+ul.links
+{
+	font-size: 40px;
+}
+
+ul.links a:hover
+{
+	color:greenyellow;
+	text-decoration:none;
+}
+
+div.credits-container
+{
+	font-size: 25px;
+	color: white;
+}
+
+p.title-credit
+{
+	font-size: 30px;
+	color: red;
+}
+
+p.title-2-credit
+{
+	font-size: 30px;
+	color: gold;
+}
+
+div.welcome-text-settings
+{
+	font-size: 40px;
+	color: gold;
+	text-align: center;
+}
+
+div.settings 
+{
+	font-size: 40px;
+}
+
+ul.settings-options a:link 
+{
+	color: red;
+}
+
+ul.settings-options a:hover
+{
+	color: white;
+}
+
+p.title
+{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	font-family: Calibri, sans-serif;
+}
+
+ul.events
+{
+	text-align: left;
+	font-size: 30px;
+	position: relative;
+}
+
+ul.events a:link
+{
+	color: white;
+	text-decoration:none;
+}
+
+ul.events a:hover
+{
+	color: gold;
+	text-decoration:none;
+}
+
+div.countdown-container
+{
+	margin-top: 30px;
+}
+
+div.countdown-container-2
+{
+	margin-top: 30px;
+}
+
+div.countdown-container-3
+{
+	margin-top: 150px;
+	font-size: 40px;
+	margin-left: 150px;
+}
+
+div.countdown-container-4
+{
+	font-size: 35px;
+	margin-top: 20px;
+}
+
+div.countdown-container-5
+{
+	font-size: 35px;
+	margin-left: 75px;
+}
+
+div.options-container
+{
+	font-size: 34px;
+	width: 70%;
+	left: 15%;
+	position: relative;
+}
+
+.timetables-option a:link, .timetables-option a:hover, .timetables-option a:visited, .timetables-option a:active
+{
+	color: red
+}
+
+.tutorial-option a:link, .tutorial-option a:hover, .tutorial-option a:visited, .tutorial-option a:active
+{
+	color: orangered;
+}
+
+.news-option a:link, .news-option a:hover, .news-option a:visited, .news-option a:active
+{
+	color: gold;
+}
+
+.credits-option a:link, .credits-option a:hover, .credits-option a:visited, .credits-option a:active
+{
+	color: blueviolet;
+}
+
+.configurate-option a:link, .configurate-option a:hover, .configurate-option a:visited, .configurate-option a:active
+{
+	color: goldenrod;
+}
+
+.follow-option a:link, .follow-option a:hover, .follow-option a:visited, .follow-option a:active
+{
+	color:white;
+}
+
+div.welcome-follow-text-container
+{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+
+div.follow-link-container
+{
+	font-size: 45px;
+}
+
+ul.follow a:link
+{
+	color: red;
+	text-decoration: none;
+}
+
+ul.follow a:hover
+{
+	color: white;
+	text-decoration: none;
+}
+
+div.updates-container
+{
+	font-size: 30px;
+}
+
+div.info-upcoming-update-container
+{
+	font-size: 30px;
+}
+
+div.reveals-container
+{
+	font-size: 30px;
+}
