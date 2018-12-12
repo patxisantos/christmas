@@ -196,12 +196,12 @@ div.options-container
 
 .timetables-option a:link, .timetables-option a:hover, .timetables-option a:visited, .timetables-option a:active
 {
-	color: red
+	color: red;
 }
 
 .tutorial-option a:link, .tutorial-option a:hover, .tutorial-option a:visited, .tutorial-option a:active
 {
-	color: orangered;
+	color: greenyellow;
 }
 
 .news-option a:link, .news-option a:hover, .news-option a:visited, .news-option a:active
@@ -212,11 +212,6 @@ div.options-container
 .credits-option a:link, .credits-option a:hover, .credits-option a:visited, .credits-option a:active
 {
 	color: blueviolet;
-}
-
-.configurate-option a:link, .configurate-option a:hover, .configurate-option a:visited, .configurate-option a:active
-{
-	color: goldenrod;
 }
 
 .follow-option a:link, .follow-option a:hover, .follow-option a:visited, .follow-option a:active
