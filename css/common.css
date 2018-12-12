@@ -98,14 +98,88 @@ div.credits-container
 
 p.title-credit
 {
-	font-size: 30px;
+	font-size: 40px;
 	color: red;
+	margin-left: 5%;
 }
 
 p.title-2-credit
 {
-	font-size: 30px;
+	font-size: 40px;
 	color: gold;
+	margin-left: 5%;
+}
+
+p.title-3-credit
+{
+	font-size: 40px;
+	color: blue;
+	margin-left: 5%;
+}
+
+p.title-4-credit
+{
+	font-size: 40px;
+	color: white;
+	margin-left: 5%;
+}
+
+p.title-1-update
+{
+	font-size: 35px;
+	color: gold;
+}
+
+p.title-2-update
+{
+	font-size: 35px;
+	color: blueviolet;
+}
+
+p.title-3-update
+{
+	font-size: 35px;
+	color: orange;
+}
+
+p.title-4-update
+{
+	font-size: 35px;
+	color: red;
+}
+
+p.title-5-update
+{
+	font-size: 35px;
+	color: green;
+}
+
+p.title-6-update
+{
+	font-size: 40px;
+	color: white;
+}
+
+p.title-1-start
+{
+	font-size: 100px;
+	text-align: center;
+	color: gold;
+	font-family: Calibri, sans-serif;
+}
+
+p.person-credit-1
+{
+	color: gold;
+	margin-left: 5%;
+	font-size: 30px;
+}
+
+p.person-credit-2
+{
+	color: white;
+	margin-left: 5%;
+	font-size: 30px;
 }
 
 div.welcome-text-settings
@@ -128,14 +202,6 @@ ul.settings-options a:link
 ul.settings-options a:hover
 {
 	color: white;
-}
-
-p.title
-{
-	text-align: center;
-	font-size: 100px;
-	color: white;
-	font-family: Calibri, sans-serif;
 }
 
 ul.events
@@ -169,9 +235,9 @@ div.countdown-container-2
 
 div.countdown-container-3
 {
-	margin-top: 150px;
+	margin-top: 100px;
 	font-size: 40px;
-	margin-left: 150px;
+	margin-left: 7%;
 }
 
 div.countdown-container-4
@@ -201,7 +267,7 @@ div.options-container
 
 .tutorial-option a:link, .tutorial-option a:hover, .tutorial-option a:visited, .tutorial-option a:active
 {
-	color: greenyellow;
+	color: orange;
 }
 
 .news-option a:link, .news-option a:hover, .news-option a:visited, .news-option a:active
@@ -216,7 +282,7 @@ div.options-container
 
 .follow-option a:link, .follow-option a:hover, .follow-option a:visited, .follow-option a:active
 {
-	color:white;
+	color: turquoise;
 }
 
 div.welcome-follow-text-container
@@ -228,7 +294,7 @@ div.welcome-follow-text-container
 
 div.follow-link-container
 {
-	font-size: 45px;
+	font-size: 60px;
 }
 
 ul.follow a:link
@@ -243,17 +309,30 @@ ul.follow a:hover
 	text-decoration: none;
 }
 
-div.updates-container
+ul.options
 {
-	font-size: 30px;
+	font-size: 42px;
 }
 
-div.info-upcoming-update-container
+ul.options a:link
 {
-	font-size: 30px;
+	color: gold;
+	text-decoration: none;
 }
 
-div.reveals-container
+ul.options a:hover
 {
-	font-size: 30px;
+	color: white;
+	text-decoration: none;
+}
+
+ul.options-2
+{
+	font-size: 38px;
+}
+
+ul.options-2 a:hover
+{
+	color: white;
+	text-decoration: none;
 }
