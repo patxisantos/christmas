@@ -353,7 +353,7 @@ ul.options-2 a:hover
 	text-decoration: none;
 }
 
-@media only screen and (max-width: 1000px) {
+@media (min-width: 481px) and (max-width: 767px) {
     p.title-1-start, div.follow-link-container
     {
         font-size: 40px;

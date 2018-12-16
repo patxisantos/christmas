@@ -1,6 +1,8 @@
 package com.example.albaazcona.myapplication;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.pm.ActivityInfo;
 import android.os.Build;
 import android.os.Bundle;
@@ -10,6 +12,7 @@ import android.webkit.CookieManager;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.os.StrictMode;
+import android.webkit.WebViewClient;
 
 import org.apache.commons.io.IOUtils;
 
@@ -31,6 +34,24 @@ public class MainActivity extends Activity {
         setupWebView();
     }
 
+    @Override
+    public void onBackPressed() {
+        new AlertDialog.Builder(this)
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .setTitle("Mensaje:")
+                .setMessage("¿Estás seguro de que quieres salir? El chorizo maligno podría perseguirte...")
+                .setPositiveButton("Yes", new DialogInterface.OnClickListener()
+                {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        finish();
+                    }
+
+                })
+                .setNegativeButton("No", null)
+                .show();
+    }
+
     private void setupGlobalCookieStorage() {
         CookieManager.setAcceptFileSchemeCookies(true);
         CookieManager.getInstance().setAcceptCookie(true);
@@ -44,6 +65,8 @@ public class MainActivity extends Activity {
 
     private void setupWebView() {
         final WebView webView = locateIndexWebView();
+
+        webView.setWebViewClient(new WebViewClient());
 
         setupWebViewCookieStorage(webView);
         setupWebViewSettings(webView);
