@@ -168,6 +168,22 @@ p.title-1-start
 	font-family: Calibri, sans-serif;
 }
 
+p.title-2-start
+{
+	font-size: 75px;
+	text-align: center;
+	color: goldenrod;
+	font-family: Calibri, sans-serif;
+}
+
+p.title-3-start
+{
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	font-family: Calibri, sans-serif;
+}
+
 p.person-credit-1
 {
 	color: gold;
