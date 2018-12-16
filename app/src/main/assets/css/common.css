@@ -352,3 +352,22 @@ ul.options-2 a:hover
 	color: white;
 	text-decoration: none;
 }
+
+@media only screen and (max-width: 1000px) {
+    p.title-1-start, div.follow-link-container
+    {
+        font-size: 40px;
+    }
+    p.title-2-start, p.title-credit, p.title-3-credit, p.title-4-credit,  p.title-3-start, p.title-6-update
+    {
+        font-size:35px;
+    }
+    ul.options-2, ul.links, div.countdown-container-4, div.days, p.title-4-credit, ul.options, p.title-1-update, p.title-2-update, p.title-3-update, p.title-4-update, p.title-5-update, p.person-credit-1, p.person-credit-2
+    {
+        font-size: 30px;
+    }
+    ul.events
+    {
+        font-size:25px;
+    }
+}
