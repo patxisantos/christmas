@@ -52,17 +52,6 @@ div.days
 	position: relative;
 	font-size: 44px;
 }
-
-ul.day-selection a:link
-{
-	color:red;
-}
-
-ul.day-selection a:hover
-{
-	color: white;
-}
-
 ul
 {
 	margin-left: 4%;
@@ -75,8 +64,14 @@ ul a
 
 ul a:link,ul a:visited
 {
-	color: red;
+	color: white;
 	text-decoration:none;
+}
+
+ul a:hover
+{
+	color: gold;
+	text-decoration: none;
 }
 
 ul.links
@@ -128,41 +123,119 @@ p.title-1-update
 {
 	font-size: 35px;
 	color: gold;
+	margin-left: 5%;
+}
+
+p.title-1-update a:link
+{
+	font-size: 35px;
+	color: gold;
+}
+
+p.title-1-update a:hover
+{
+	font-size: 35px;
+	color: goldenrod;
 }
 
 p.title-2-update
 {
 	font-size: 35px;
 	color: blueviolet;
+	margin-left: 5%;
 }
 
-p.title-3-update
+p.title-2-update a:link
+{
+	font-size: 35px;
+	color: blueviolet;
+}
+
+p.title-2-update a:hover 
+{
+	font-size: 35px;
+	color: blue;
+}
+
+p.title-3-update 
 {
 	font-size: 35px;
 	color: orange;
+	margin-left: 5%;
+}
+
+p.title-3-update a:link
+{
+	font-size: 35px;
+	color: orange;
+}
+
+p.title-3-update a:hover
+{
+	font-size: 35px;
+	color: orangered;
 }
 
 p.title-4-update
 {
 	font-size: 35px;
 	color: red;
+	margin-left: 5%;
+}
+
+p.title-4-update a:link
+{
+	font-size: 35px;
+	color: red;
+}
+
+p.title-4-update a:hover
+{
+	font-size: 35px;
+	color: white;
 }
 
 p.title-5-update
 {
 	font-size: 35px;
 	color: green;
+	margin-left: 5%;
+}
+
+p.title-5-update a:link
+{
+	font-size: 35px;
+	color: green;
+}
+
+p.title-5-update a:hover
+{
+	font-size: 35px;
+	color: greenyellow;
 }
 
 p.title-6-update
 {
 	font-size: 40px;
 	color: white;
+	margin-left: 5%;
+}
+
+p.title-6-update a:link
+{
+	font-size: 40px;
+	color: white;
+}
+
+p.title-6-update a:hover
+{
+	font-size: 40px;
+	color: gold;
 }
 
 p.title-1-start
 {
-	font-size: 100px;
+	font-size: 90px;
 	text-align: center;
 	color: gold;
 	font-family: Calibri, sans-serif;
@@ -205,21 +278,6 @@ div.welcome-text-settings
 	text-align: center;
 }
 
-div.settings 
-{
-	font-size: 40px;
-}
-
-ul.settings-options a:link 
-{
-	color: red;
-}
-
-ul.settings-options a:hover
-{
-	color: white;
-}
-
 ul.events
 {
 	text-align: left;
@@ -227,9 +285,9 @@ ul.events
 	position: relative;
 }
 
-ul.events a:link
+ul.events a:link a:visited
 {
-	color: white;
+	color: blue;
 	text-decoration:none;
 }
 
@@ -247,6 +305,8 @@ div.countdown-container
 div.countdown-container-2
 {
 	margin-top: 30px;
+	margin-left: 5%;
+	font-size: 35px;
 }
 
 div.countdown-container-3
@@ -301,6 +361,11 @@ div.options-container
 	color: turquoise;
 }
 
+.updates-option a:link, .updates-option a:hover, .updates-option a:visited, .updates-option a:active
+{
+	color: brown;
+}
+
 div.welcome-follow-text-container
 {
 	font-size: 40px;
@@ -313,15 +378,9 @@ div.follow-link-container
 	font-size: 60px;
 }
 
-ul.follow a:link
-{
-	color: red;
-	text-decoration: none;
-}
-
 ul.follow a:hover
 {
-	color: white;
+	color: gold;
 	text-decoration: none;
 }
 
@@ -330,9 +389,9 @@ ul.options
 	font-size: 42px;
 }
 
-ul.options a:link
+ul.options a:link, ul.options a:visited
 {
-	color: gold;
+	color: orangered;
 	text-decoration: none;
 }
 
