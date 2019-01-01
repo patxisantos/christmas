@@ -21,20 +21,21 @@
 				<li class="01-january-option"> <a href="1-january.html"> Itinerario del 1/1/2019 </a> </li>
 				<li class="05-january-option"> <a href="5-january.html"> Itinerario del 5/1/2019 </a> </li>
 				<li class="06-january-option"> <a href="6-january.html"> Itinerario del 6/1/2019 </a> </li>
+				<li class="07-january-option"> <a href="7-january.html"> Itinerario del 7/1/2019 </a> </li>
 			</ul>
-			<div class="countdown-container-4">
-				<script language="JavaScript">
-						TargetDate = "12/24/2018 10:15 PM";
-						BackColor = "gold";
-						ForeColor = "white";
-						CountActive = true;
-						CountStepper = -1;
-						LeadingZero = true;
-						DisplayFormat = "¡En %%D%% Días, %%H%% Horas, %%M%% Minutos y %%S%% Segundos comenzará la Emisión del Telediario! (24/12/2018, 22:15).";
-						FinishMessage = "¡En breve empezará: Emisión del Telediario! (24/12/2018, 22:15).";
-				</script>
-				<script language="JavaScript" src="https://scripts.hashemian.com/js/countdown.js"></script>
-			</div>
+		</div>
+		<div class="countdown-container-4">
+			<script language="JavaScript">
+					BackColor = "gold";
+					ForeColor = "white";
+					CountActive = true;
+					CountStepper = -1;
+					LeadingZero = true;
+					TargetDates = ["12/31/2018 3:00 PM", "12/31/2018 3:30 PM","12/31/2018 5:00 PM","12/31/2018 8:00 PM", "12/31/2018 9:00 PM", "12/31/2018 10:00 PM", "12/31/2018 10:15 PM", "12/31/2018 11:30 PM", "01/01/2019 0:00 AM", "01/01/2019 00:15 AM","01/01/2019 00:30 AM","01/01/2019 00:45 AM","01/01/2019 01:30 AM","01/01/2019 2:15 PM", "01/01/2019 3:15 PM","01/01/2019 5:00 PM","01/01/2019 6:00 PM", "01/01/2019 6:30 PM", "01/01/2019 7:00 PM", "01/01/2019 7:30 PM", "01/01/2019 7:45 PM", "01/01/2019 9:00 PM"];
+					DisplayFormat = "Faltan %%D%% Días, %%H%% Horas, %%M%% Minutos y %%S%% Segundos para el comienzo del Siguiente Evento.";
+					FinishMessage = "El evento iniciará en breve.";
+			</script>
+			<script language="JavaScript" src="js/countdown.js"></script>
 		</div>
 	</body>
 </html>

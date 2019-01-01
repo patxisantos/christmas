@@ -126,7 +126,7 @@ p.title-1-update
 	margin-left: 5%;
 }
 
-p.title-1-update a:link
+p.title-1-update a:link, a:visited
 {
 	font-size: 35px;
 	color: gold;
@@ -145,7 +145,7 @@ p.title-2-update
 	margin-left: 5%;
 }
 
-p.title-2-update a:link
+p.title-2-update a:link, a:visited
 {
 	font-size: 35px;
 	color: blueviolet;
@@ -164,7 +164,7 @@ p.title-3-update
 	margin-left: 5%;
 }
 
-p.title-3-update a:link
+p.title-3-update a:link, a:visited
 {
 	font-size: 35px;
 	color: orange;
@@ -183,7 +183,7 @@ p.title-4-update
 	margin-left: 5%;
 }
 
-p.title-4-update a:link
+p.title-4-update a:link, a:visited
 {
 	font-size: 35px;
 	color: red;
@@ -192,7 +192,7 @@ p.title-4-update a:link
 p.title-4-update a:hover
 {
 	font-size: 35px;
-	color: white;
+	color: green;
 }
 
 p.title-5-update
@@ -202,7 +202,7 @@ p.title-5-update
 	margin-left: 5%;
 }
 
-p.title-5-update a:link
+p.title-5-update a:link, a:visited
 {
 	font-size: 35px;
 	color: green;
@@ -221,7 +221,7 @@ p.title-6-update
 	margin-left: 5%;
 }
 
-p.title-6-update a:link
+p.title-6-update a:link, a:visited
 {
 	font-size: 40px;
 	color: white;
@@ -283,6 +283,7 @@ ul.events
 	text-align: left;
 	font-size: 30px;
 	position: relative;
+	color: white;
 }
 
 ul.events a:link a:visited
