@@ -413,6 +413,16 @@ ul.options-2 a:hover
 	text-decoration: none;
 }
 
+div.video
+{
+	margin: auto;
+	width: 50%;
+}
+
+.center {
+	text-align: center;
+}
+
 @media (min-width: 481px) and (max-width: 767px) {
     p.title-1-start, div.follow-link-container
     {
