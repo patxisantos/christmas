@@ -235,7 +235,7 @@ p.title-6-update a:hover
 
 p.title-1-start
 {
-	font-size: 90px;
+	font-size: 100px;
 	text-align: center;
 	color: gold;
 	font-family: Calibri, sans-serif;
@@ -245,7 +245,7 @@ p.title-2-start
 {
 	font-size: 75px;
 	text-align: center;
-	color: goldenrod;
+	color: gold;
 	font-family: Calibri, sans-serif;
 }
 
@@ -254,6 +254,14 @@ p.title-3-start
 	font-size: 50px;
 	text-align: center;
 	color: white;
+	font-family: Calibri, sans-serif;
+}
+
+p.title-4-start
+{
+	font-size: 50px;
+	text-align: center;
+	color: gold;
 	font-family: Calibri, sans-serif;
 }
 
@@ -339,32 +347,39 @@ div.options-container
 
 .timetables-option a:link, .timetables-option a:hover, .timetables-option a:visited, .timetables-option a:active
 {
-	color: red;
+	color: cadetblue;
+	font-size: 45px;
 }
 
 .tutorial-option a:link, .tutorial-option a:hover, .tutorial-option a:visited, .tutorial-option a:active
 {
-	color: orange;
+	color: red;
+	font-size: 45px;
+}
+
+.tv-signal-option a:link, .tv-signal-option a:hover, .tv-signal-option a:visited, .tv-signal-option a:active
+{
+	color: gold;
+	font-size: 45px;
 }
 
 .clasifications-option a:link, .clasifications-option a:hover, .clasifications-option a:visited, .clasifications-option a:active
 {
 	color: gold;
+	font-size: 45px;
 }
 
 .credits-option a:link, .credits-option a:hover, .credits-option a:visited, .credits-option a:active
 {
-	color: blueviolet;
+	color: red;
+	font-size: 45px;
 }
 
-.follow-option a:link, .follow-option a:hover, .follow-option a:visited, .follow-option a:active
-{
-	color: turquoise;
-}
 
 .updates-option a:link, .updates-option a:hover, .updates-option a:visited, .updates-option a:active
 {
-	color: brown;
+	color: cadetblue;
+	font-size: 45px;
 }
 
 div.welcome-follow-text-container
@@ -419,7 +434,8 @@ div.video
 	width: 50%;
 }
 
-.center {
+.center 
+{
 	text-align: center;
 }
 
@@ -440,4 +456,24 @@ div.video
     {
         font-size:25px;
     }
+}
+
+ul.revive a:link,ul.revive a:visited
+{
+	color: orange;
+}
+
+ul.revive a:hover
+{
+	color: white;
+}
+
+ul.day-selection a:link,ul.day-selection a:visited
+{
+	color: whitesmoke;
+}
+
+ul.day-selection a:hover
+{
+	color: red;
 }
