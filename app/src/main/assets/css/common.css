@@ -122,14 +122,14 @@ p.title-4-credit
 p.title-1-update
 {
 	font-size: 35px;
-	color: gold;
+	color: salmon;
 	margin-left: 5%;
 }
 
 p.title-1-update a:link, a:visited
 {
 	font-size: 35px;
-	color: gold;
+	color: salmon;
 }
 
 p.title-1-update a:hover
@@ -141,20 +141,20 @@ p.title-1-update a:hover
 p.title-2-update
 {
 	font-size: 35px;
-	color: blueviolet;
+	color: cornflowerblue;
 	margin-left: 5%;
 }
 
 p.title-2-update a:link, a:visited
 {
 	font-size: 35px;
-	color: blueviolet;
+	color: cornflowerblue;
 }
 
 p.title-2-update a:hover 
 {
 	font-size: 35px;
-	color: blue;
+	color: blueviolet;
 }
 
 p.title-3-update 
@@ -217,14 +217,14 @@ p.title-5-update a:hover
 p.title-6-update
 {
 	font-size: 35px;
-	color: white;
+	color: cornsilk;
 	margin-left: 5%;
 }
 
 p.title-6-update a:link, a:visited
 {
 	font-size: 35px;
-	color: white;
+	color: cornsilk;
 }
 
 p.title-6-update a:hover
