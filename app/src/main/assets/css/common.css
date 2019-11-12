@@ -347,7 +347,7 @@ div.options-container
 
 .timetables-option a:link, .timetables-option a:hover, .timetables-option a:visited, .timetables-option a:active
 {
-	color: cadetblue;
+	color: cyan;
 	font-size: 45px;
 }
 
@@ -363,6 +363,11 @@ div.options-container
 	font-size: 45px;
 }
 
+.pirates-paradise-option a:link, .pirates-paradise-option a:hover, .pirates-paradise-option a:visited, .pirates-paradise-option a:active
+{
+	color: greenyellow;
+	font-size: 45px;
+}
 .clasifications-option a:link, .clasifications-option a:hover, .clasifications-option a:visited, .clasifications-option a:active
 {
 	color: gold;
@@ -378,7 +383,7 @@ div.options-container
 
 .updates-option a:link, .updates-option a:hover, .updates-option a:visited, .updates-option a:active
 {
-	color: cadetblue;
+	color: cyan;
 	font-size: 45px;
 }
 
