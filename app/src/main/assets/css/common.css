@@ -198,20 +198,20 @@ p.title-4-update a:hover
 p.title-5-update
 {
 	font-size: 35px;
-	color: green;
+	color: greenyellow;
 	margin-left: 5%;
 }
 
 p.title-5-update a:link, a:visited
 {
 	font-size: 35px;
-	color: green;
+	color: greenyellow;
 }
 
 p.title-5-update a:hover
 {
 	font-size: 35px;
-	color: greenyellow;
+	color: green;
 }
 
 p.title-6-update
