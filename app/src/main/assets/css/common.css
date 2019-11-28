@@ -121,115 +121,115 @@ p.title-4-credit
 
 p.title-1-update
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: salmon;
 	margin-left: 5%;
 }
 
 p.title-1-update a:link, a:visited
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: salmon;
 }
 
 p.title-1-update a:hover
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: goldenrod;
 }
 
 p.title-2-update
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: cornflowerblue;
 	margin-left: 5%;
 }
 
 p.title-2-update a:link, a:visited
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: cornflowerblue;
 }
 
 p.title-2-update a:hover 
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: blueviolet;
 }
 
 p.title-3-update 
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: orange;
 	margin-left: 5%;
 }
 
 p.title-3-update a:link, a:visited
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: orange;
 }
 
 p.title-3-update a:hover
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: orangered;
 }
 
 p.title-4-update
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: red;
 	margin-left: 5%;
 }
 
 p.title-4-update a:link, a:visited
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: red;
 }
 
 p.title-4-update a:hover
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: green;
 }
 
 p.title-5-update
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: greenyellow;
 	margin-left: 5%;
 }
 
 p.title-5-update a:link, a:visited
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: greenyellow;
 }
 
 p.title-5-update a:hover
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: green;
 }
 
 p.title-6-update
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: cornsilk;
 	margin-left: 5%;
 }
 
 p.title-6-update a:link, a:visited
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: cornsilk;
 }
 
 p.title-6-update a:hover
 {
-	font-size: 35px;
+	font-size: 40px;
 	color: gold;
 }
 
@@ -506,4 +506,16 @@ ul.update-links a:hover
 {
 	color: white;
 	font-size: 35px;
+}
+
+ul.clasifications-links a:link,ul.clasifications-links a:visited
+{
+	color: white;
+	font-size: 45px;
+}
+
+ul.clasifications-links a:hover
+{
+	color: orange;
+	font-size: 45px;
 }
