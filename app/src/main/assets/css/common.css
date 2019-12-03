@@ -74,15 +74,16 @@ ul a:hover
 	text-decoration: none;
 }
 
-ul.links
+ul.links a:link,ul.links a:visited
 {
-	font-size: 40px;
+	font-size: 45px;
+	color: white;
 }
 
 ul.links a:hover
 {
-	color:greenyellow;
-	text-decoration:none;
+	font-size: 45px;
+	color: gold;
 }
 
 div.credits-container
@@ -262,6 +263,14 @@ p.title-4-start
 	font-size: 50px;
 	text-align: center;
 	color: gold;
+	font-family: Calibri, sans-serif;
+}
+
+p.title-5-start
+{
+	font-size: 55px;
+	text-align: center;
+	color: red;
 	font-family: Calibri, sans-serif;
 }
 
@@ -465,12 +474,12 @@ div.video
 
 ul.revive a:link,ul.revive a:visited
 {
-	color: orange;
+	color: white;
 }
 
 ul.revive a:hover
 {
-	color: white;
+	color: gold;
 }
 
 ul.day-selection a:link,ul.day-selection a:visited
@@ -518,4 +527,33 @@ ul.clasifications-links a:hover
 {
 	color: orange;
 	font-size: 45px;
+}
+
+ul.tutorial-links a:link,ul.tutorial-links a:visited
+{
+	color: greenyellow;
+	font-size: 45px;
+}
+
+ul.tutorial-links a:hover
+{
+	color: cornflowerblue;
+	font-size: 45px;
+}
+
+ul.events
+{
+	font-size: 35px;
+}
+
+ul.paradise-links a:link,ul.paradise-links a:visited
+{
+	font-size: 50px;
+	color: red;
+}
+
+ul.paradise-links a:hover
+{
+	font-size: 50px;
+	color: white;
 }
