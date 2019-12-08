@@ -557,3 +557,10 @@ ul.paradise-links a:hover
 	font-size: 50px;
 	color: white;
 }
+
+p.title-revive
+{
+	font-size: 60px;
+	color: orange;
+	text-align: center;
+}
