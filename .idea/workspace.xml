@@ -2,51 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18080c3e-e7b2-480a-9006-3005549f5306" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1-january-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/1-january-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1-january-2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/1-january-2020.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/22-december-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/22-december-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/23-december-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/23-december-2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/24-december-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/24-december-2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/24-december-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/24-december-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/25-december-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/25-december-2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/25-december-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/25-december-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/29-december-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/29-december-2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/29-december-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/29-december-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/30-december-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/30-december-2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/31-december-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/31-december-2018.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/31-december-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/31-december-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5-january-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/5-january-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/5-january-2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/5-january-2020.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6-january-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/6-january-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/6-january-2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/6-january-2020.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/all-pirates-paradise-balance.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/all-pirates-paradise-balance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/all-pirates-paradise-updates.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/all-pirates-paradise-updates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/all-pirates.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/all-pirates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/all-season-1-paradise-chapters.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/all-season-1-paradise-chapters.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/app-working-tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/app-working-tutorial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/calendario-mensual-emisiones-canal-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/calendario-mensual-emisiones-canal-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/christmas-normal-day.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/christmas-normal-day.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/clasifications-2018-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/clasifications-2018-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/conjunto-clasificaciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/conjunto-clasificaciones.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/conjunto-itinerarios-navidad.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/conjunto-itinerarios-navidad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/credits.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/credits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/info-poi.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/info-poi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/itinerarios-navidades-2018-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/itinerarios-navidades-2018-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/maintenance-491-to-499.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/maintenance-491-to-499.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-1-canal-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-1-canal-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-2-canal-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-2-canal-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-3-canal-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-3-canal-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-4-canal-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mantenimiento-4-canal-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mantenimientos-canal-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mantenimientos-canal-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/monthly-recap-tv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/novedades.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/novedades.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/system-components-working.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/system-components-working.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/tutorial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/tv-channel.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/tv-channel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,28 +25,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/albaazcona/myapplication/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/app.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,10 +37,12 @@
     <option name="height" value="688" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,8 +55,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,7 +62,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,19 +119,19 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35627836" />
-      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49756098" visible="true" weight="0.36157337" />
+      <window_info id="Structure" order="2" sideWeight="0.502439" side_tool="true" weight="0.32980332" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="5" />
       <window_info id="Capture Tool" order="6" />
-      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Resources Explorer" order="7" sideWeight="0.49756098" weight="0.32980332" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" visible="true" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32972974" />
       <window_info anchor="bottom" id="Run" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -199,17 +145,92 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/albaazcona/myapplication/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/albaazcona/myapplication/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>christmas</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
