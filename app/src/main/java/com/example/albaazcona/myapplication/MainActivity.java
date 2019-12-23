@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
         new AlertDialog.Builder(this)
                 .setIcon(android.R.drawable.ic_dialog_alert)
                 .setTitle("Mensaje:")
-                .setMessage("¿Estás seguro de que quieres salir? El chorizo maligno podría perseguirte...")
+                .setMessage("¿Estás seguro de que quieres salir de la Aplicación? ¡El Chorizo Nevado vendrá a por ti!")
                 .setPositiveButton("Yes", new DialogInterface.OnClickListener()
                 {
                     @Override

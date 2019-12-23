@@ -76,13 +76,11 @@ ul a:hover
 
 ul.links a:link,ul.links a:visited
 {
-	font-size: 45px;
 	color: white;
 }
 
 ul.links a:hover
 {
-	font-size: 45px;
 	color: gold;
 }
 
@@ -357,43 +355,40 @@ div.options-container
 .timetables-option a:link, .timetables-option a:hover, .timetables-option a:visited, .timetables-option a:active
 {
 	color: cyan;
-	font-size: 45px;
 }
 
 .tutorial-option a:link, .tutorial-option a:hover, .tutorial-option a:visited, .tutorial-option a:active
 {
 	color: red;
-	font-size: 45px;
 }
 
 .tv-signal-option a:link, .tv-signal-option a:hover, .tv-signal-option a:visited, .tv-signal-option a:active
 {
 	color: gold;
-	font-size: 45px;
 }
 
 .pirates-paradise-option a:link, .pirates-paradise-option a:hover, .pirates-paradise-option a:visited, .pirates-paradise-option a:active
 {
 	color: greenyellow;
-	font-size: 45px;
 }
+
 .clasifications-option a:link, .clasifications-option a:hover, .clasifications-option a:visited, .clasifications-option a:active
 {
 	color: gold;
-	font-size: 45px;
 }
 
 .credits-option a:link, .credits-option a:hover, .credits-option a:visited, .credits-option a:active
 {
 	color: red;
-	font-size: 45px;
 }
-
 
 .updates-option a:link, .updates-option a:hover, .updates-option a:visited, .updates-option a:active
 {
 	color: cyan;
-	font-size: 45px;
+}
+
+.options-2 a, ul.tutorial-links a, ul.links a, ul.update-links a, ul.clasifications-links a, ul.paradise-links a{
+    font-size:45px;
 }
 
 div.welcome-follow-text-container
@@ -444,8 +439,7 @@ ul.options-2 a:hover
 
 div.video
 {
-	margin: auto;
-	width: 50%;
+	margin-left: 25%;
 }
 
 .center 
@@ -458,11 +452,11 @@ div.video
     {
         font-size: 40px;
     }
-    p.title-2-start, p.title-credit, p.title-3-credit, p.title-4-credit,  p.title-3-start, p.title-6-update
+    p.title-2-start, p.title-revive, p.title-credit, p.title-3-credit, p.title-4-credit,  p.title-3-start, p.title-6-update, p.title-4-start, p.title-5-start
     {
         font-size: 35px;
     }
-    ul.options-2, ul.links, div.countdown-container-4, div.days, p.title-4-credit, ul.options, p.title-1-update, p.title-2-update, p.title-3-update, p.title-4-update, p.title-5-update, p.person-credit-1, p.person-credit-2
+    .options-2 a, ul.links a, div.countdown-container-4, div.days, p.title-4-credit, ul.options, p.title-1-update, p.title-2-update, p.title-3-update, p.title-4-update, p.title-5-update, p.person-credit-1, p.person-credit-2, ul.update-links a, ul.tutorial-links a, ul.clasifications-links a, ul.paradise-links a
     {
         font-size: 30px;
     }
@@ -470,7 +464,22 @@ div.video
     {
         font-size: 25px;
     }
+    div.video
+    {
+        margin-left: 5%;
+    }
+    div.video iframe
+    {
+        width:500px;
+        height:280px;
+    }
 }
+
+    div.video iframe
+    {
+        width:600px;
+        height:400px;
+    }
 
 ul.revive a:link,ul.revive a:visited
 {
@@ -508,37 +517,31 @@ p.title-credit-thanks
 ul.update-links a:link,ul.update-links a:visited
 {
 	color: red;
-	font-size: 35px;
 }
-
+x
 ul.update-links a:hover
 {
 	color: white;
-	font-size: 35px;
 }
 
 ul.clasifications-links a:link,ul.clasifications-links a:visited
 {
 	color: white;
-	font-size: 45px;
 }
 
 ul.clasifications-links a:hover
 {
 	color: orange;
-	font-size: 45px;
 }
 
 ul.tutorial-links a:link,ul.tutorial-links a:visited
 {
 	color: greenyellow;
-	font-size: 45px;
 }
 
 ul.tutorial-links a:hover
 {
 	color: cornflowerblue;
-	font-size: 45px;
 }
 
 ul.events
@@ -548,19 +551,17 @@ ul.events
 
 ul.paradise-links a:link,ul.paradise-links a:visited
 {
-	font-size: 50px;
 	color: red;
 }
 
 ul.paradise-links a:hover
 {
-	font-size: 50px;
 	color: white;
 }
 
 p.title-revive
 {
-	font-size: 60px;
+	font-size: 40px;
 	color: orange;
 	text-align: center;
 }
