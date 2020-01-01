@@ -10,29 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18080c3e-e7b2-480a-9006-3005549f5306" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/31-december-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/31-december-2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/all-pirates-paradise-balance.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/all-pirates-paradise-balance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/credits.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/credits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mantenimientos-canal-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mantenimientos-canal-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mas-euros-ganados-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mas-euros-ganados-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/mas-victorias-paraiso-pirata.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/mas-victorias-paraiso-pirata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/novedades.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/novedades.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/paraiso-pirata.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/paraiso-pirata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/tv-channel.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/tv-channel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1-january-2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/1-january-2020.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,8 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -116,6 +100,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,8 +248,8 @@
       <window_info anchor="bottom" id="Android Profiler" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="3" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49848714" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.49394855" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50680786" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.49319214" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
