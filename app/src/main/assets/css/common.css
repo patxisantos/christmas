@@ -367,6 +367,12 @@ div.options-container
 	color: gold;
 }
 
+.newspaper-option a:link, .newspaper-option a:hover, .newspaper-option a:visited, .newspaper-option a:active
+{
+	color: greenyellow;
+}
+
+
 .pirates-paradise-option a:link, .pirates-paradise-option a:hover, .pirates-paradise-option a:visited, .pirates-paradise-option a:active
 {
 	color: greenyellow;
