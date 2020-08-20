@@ -1,6 +1,6 @@
 body
 {
-	background-image: url(../images/wallpaper.jpg);
+	background-image: url(../images/wallpaper-2.jpg);
 	width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -118,115 +118,20 @@ p.title-4-credit
 	margin-left: 5%;
 }
 
-p.title-1-update
+p.title-update
 {
 	font-size: 40px;
-	color: salmon;
-	margin-left: 5%;
+	color: white;
+	text-align: center;
 }
 
-p.title-1-update a:link, a:visited
+p.title-update a:link, a:visited
 {
 	font-size: 40px;
-	color: salmon;
+	color: white;
 }
 
-p.title-1-update a:hover
-{
-	font-size: 40px;
-	color: goldenrod;
-}
-
-p.title-2-update
-{
-	font-size: 40px;
-	color: cornflowerblue;
-	margin-left: 5%;
-}
-
-p.title-2-update a:link, a:visited
-{
-	font-size: 40px;
-	color: cornflowerblue;
-}
-
-p.title-2-update a:hover 
-{
-	font-size: 40px;
-	color: blueviolet;
-}
-
-p.title-3-update 
-{
-	font-size: 40px;
-	color: orange;
-	margin-left: 5%;
-}
-
-p.title-3-update a:link, a:visited
-{
-	font-size: 40px;
-	color: orange;
-}
-
-p.title-3-update a:hover
-{
-	font-size: 40px;
-	color: orangered;
-}
-
-p.title-4-update
-{
-	font-size: 40px;
-	color: red;
-	margin-left: 5%;
-}
-
-p.title-4-update a:link, a:visited
-{
-	font-size: 40px;
-	color: red;
-}
-
-p.title-4-update a:hover
-{
-	font-size: 40px;
-	color: green;
-}
-
-p.title-5-update
-{
-	font-size: 40px;
-	color: greenyellow;
-	margin-left: 5%;
-}
-
-p.title-5-update a:link, a:visited
-{
-	font-size: 40px;
-	color: greenyellow;
-}
-
-p.title-5-update a:hover
-{
-	font-size: 40px;
-	color: green;
-}
-
-p.title-6-update
-{
-	font-size: 40px;
-	color: cornsilk;
-	margin-left: 5%;
-}
-
-p.title-6-update a:link, a:visited
-{
-	font-size: 40px;
-	color: cornsilk;
-}
-
-p.title-6-update a:hover
+p.title-update a:hover
 {
 	font-size: 40px;
 	color: gold;
